@@ -1,0 +1,20 @@
+﻿2013/06/13 12:05:46 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\Chelly\Desktop\jikken\bluetooth_Serial_Windows\Serial_Only\test_Serial_act2\test_Serial_act2.vcxproj" (build ターゲット)。
+     1>InitializeBuildStatus:
+         "Debug\test_Serial_act2.unsuccessfulbuild" のタッチ タスクを実行しています。
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Serial.cpp
+         Serial.cpp
+       ManifestResourceCompile:
+         すべての出力が最新のものです。
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Chelly\Desktop\jikken\bluetooth_Serial_Windows\Serial_Only\Debug\test_Serial_act2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\test_Serial_act2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Chelly\Desktop\jikken\bluetooth_Serial_Windows\Serial_Only\Debug\test_Serial_act2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Chelly\Desktop\jikken\bluetooth_Serial_Windows\Serial_Only\Debug\test_Serial_act2.lib" /MACHINE:X86 Debug\test_Serial_act2.exe.embed.manifest.res
+         Debug\main.obj
+         Debug\Serial.obj
+     1>Serial.obj : error LNK2019: 未解決の外部シンボル "unsigned long __cdecl ComReadThread(unsigned long *)" (?ComReadThread@@YAKPAK@Z) が関数 "void __cdecl init_serial(void)" (?init_serial@@YAXXZ) で参照されました。
+     1>C:\Users\Chelly\Desktop\jikken\bluetooth_Serial_Windows\Serial_Only\Debug\test_Serial_act2.exe : fatal error LNK1120: 外部参照 1 が未解決です。
+     1>プロジェクト "C:\Users\Chelly\Desktop\jikken\bluetooth_Serial_Windows\Serial_Only\test_Serial_act2\test_Serial_act2.vcxproj" (build ターゲット) のビルドが終了しました -- 失敗。
+
+ビルドに失敗しました。
+
+経過時間 00:00:01.46

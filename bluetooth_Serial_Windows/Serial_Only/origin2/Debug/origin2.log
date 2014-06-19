@@ -1,0 +1,16 @@
+﻿2013/06/13 15:55:07 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\Chelly\Desktop\jikken\bluetooth_Serial_Windows\Serial_Only\origin2\origin2.vcxproj" (build ターゲット)。
+     1>InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "Debug\origin2.unsuccessfulbuild" を作成しています。
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp serial.cpp
+         serial.cpp
+     1>c:\users\chelly\desktop\jikken\bluetooth_serial_windows\serial_only\origin2\serial.cpp(1): fatal error C1083: include ファイルを開けません。'avr/io.h': No such file or directory
+         main.cpp
+     1>c:\users\chelly\desktop\jikken\bluetooth_serial_windows\serial_only\origin2\main.cpp(1): fatal error C1083: include ファイルを開けません。'avr/io.h': No such file or directory
+         コードを生成中...
+     1>プロジェクト "C:\Users\Chelly\Desktop\jikken\bluetooth_Serial_Windows\Serial_Only\origin2\origin2.vcxproj" (build ターゲット) のビルドが終了しました -- 失敗。
+
+ビルドに失敗しました。
+
+経過時間 00:00:00.23

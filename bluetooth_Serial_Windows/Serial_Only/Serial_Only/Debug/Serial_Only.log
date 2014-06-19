@@ -1,0 +1,20 @@
+﻿2013/06/13 17:47:44 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\Chelly\Desktop\jikken\bluetooth_Serial_Windows\Serial_Only\Serial_Only\Serial_Only.vcxproj" (build ターゲット)。
+     1>InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "Debug\Serial_Only.unsuccessfulbuild" を作成しています。
+       ClCompile:
+         すべての出力が最新のものです。
+       ManifestResourceCompile:
+         すべての出力が最新のものです。
+       Link:
+         すべての出力が最新のものです。
+       Manifest:
+         すべての出力が最新のものです。
+       FinalizeBuildStatus:
+         ファイル "Debug\Serial_Only.unsuccessfulbuild" を削除しています。
+         "Debug\Serial_Only.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "C:\Users\Chelly\Desktop\jikken\bluetooth_Serial_Windows\Serial_Only\Serial_Only\Serial_Only.vcxproj" (build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:00.07
